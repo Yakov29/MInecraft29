@@ -9,4 +9,3 @@ The game runs smoothly even on low end hardware, like Chromebooks, and we believ
 We are hoping you can assist us in getting in contact with an active Mojang representative, the Minecraft creator's inbox for this specific subject is eagsforum [at] gmail [dot] com if you could forward this contact information and these links to the Java Edition developer team it would be much appreciated.
 
 The goal of Minecraft was never to pirate the game, it was just to port it to the browser, and the years of time and effort put into the port should not be killed off so violently. we ask that you contact us at the email above to talk things out and figure out a future for eagler. Thank you for reading <3
-Password "Minecraft29".
